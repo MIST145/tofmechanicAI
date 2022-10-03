@@ -1,5 +1,7 @@
 # tofmechanicAI
 
+Because repairing your car in 30s with a repairkit, a piece of tape and a staple is not very roleplaying, I made this Mechanic AI script.
+
 * Free FiveM script about mechanicAI fully configurable - Legacy - ox_lib
 * resmon : 0.00ms
 * Video Preview : https://youtu.be/YD1n0Um-T60
