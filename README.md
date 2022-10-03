@@ -31,5 +31,5 @@ Optionsmecano.body = true                             -- configure if mecano rep
 Optionsmecano.addfuel = false                         -- configure if mecano add fuel (true | false)
 Optionsmecano.fuellevel = 10.0                        -- configure add fuel level
 ```
+# Translations /locales/en.json
 
- 
