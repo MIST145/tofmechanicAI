@@ -1,0 +1,13 @@
+{
+    "cashpay": "you paid with cash ",
+    "bankpay": "you paid by bank transfer ",
+    "mecaonline": "there are mechanics in town, contact them",
+    "nomoney": "you don't have enough money, repair cost ",
+    "command": "if there's no mechanics, use command ",
+    "stayvehicle": "stay in the vehicle and call the mechanic",
+    "wait": "the mechanic is on the way",
+    "repairengine": "the mechanic is repairing engine",
+    "engineok": "the engine is repaired",
+    "bodyok": "the body is repaired",
+    "fuelok": "fuel is check"
+}
