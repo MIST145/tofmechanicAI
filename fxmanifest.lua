@@ -3,11 +3,11 @@ games {'gta5'}
 
 lua54 'yes'
 
-name         'tofmecanoAI'
+name         'tofmechanicAI'
 version      '1.0.0'
-description  'Mecano AI system'
+description  'Mechanic AI system'
 author       'ChrisToF#0851'
-repository   'https://github.com/ChrisToFLuA/tofmecanoAI'
+repository   'https://github.com/ChrisToFLuA/tofmechanicAI'
 
 dependency {
 	'ox_lib'
