@@ -2,10 +2,9 @@
 
 * Free FiveM script about mechanicAI fully configurable - Legacy - ox_lib
 * resmon : 0.00ms
-
-Video Preview : https://youtu.be/YD1n0Um-T60
-Forum link : 
-Discord link : https://discord.gg/B45FXcrqCt
+* Video Preview : https://youtu.be/YD1n0Um-T60
+* Forum link : 
+* Discord link : https://discord.gg/B45FXcrqCt
 
 # Dependencies
 
