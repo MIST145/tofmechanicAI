@@ -3,7 +3,7 @@
 * Free FiveM script about mechanicAI fully configurable - Legacy - ox_lib
 * resmon : 0.00ms
 * Video Preview : https://youtu.be/YD1n0Um-T60
-* Forum link : 
+* Forum link : https://forum.cfx.re/t/free-script-mechanic-ai-fully-configurable-esx-legacy-ox-lib/4920294
 * Discord link : https://discord.gg/B45FXcrqCt
 
 # Dependencies
